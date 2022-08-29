@@ -5,7 +5,7 @@
 
 
 <h2> 😎 Sobre mim </h2>
-<p> Meu nome é João Vitor, sou estudante de ciência da computação, futuro desenvolvedor full-stack e programador de sistemas para naves extraterrestres</p>
+<p> Meu nome é João Vitor, sou estudante de ciência da computação, atualmente trabalho como professor, sou futuro desenvolvedor full-stack e programador de sistemas para naves extraterrestres.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-xarrua" align="right">
 
 <h2> 🔬 Estudando </h2>
