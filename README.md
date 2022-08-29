@@ -1,10 +1,12 @@
+<img src="https://media0.giphy.com/media/VeBeB9rR524RW/giphy.gif?cid=ecf05e47qn6u2k8ft6ftd16njsqbnaw4dzbxzhk01p1w5xeu&rid=giphy.gif&ct=g" align="right">
+
 <h1> ✨ Bem vindo!!! ✨</h1>
 <p> É bom te ver por aqui</p>
-<img src="https://media0.giphy.com/media/VeBeB9rR524RW/giphy.gif?cid=ecf05e47qn6u2k8ft6ftd16njsqbnaw4dzbxzhk01p1w5xeu&rid=giphy.gif&ct=g">
+
 
 <h2> 😎 Sobre mim </h2>
 <p> Meu nome é João Vitor, sou estudante de ciência da computação, futuro desenvolvedor full-stack e programador de sistemas para naves extraterrestres</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-xarrua">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-xarrua" align="right">
 
 <h2> 🔬 Estudando </h2>
 <div>
