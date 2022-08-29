@@ -1,6 +1,6 @@
-<img src="https://media0.giphy.com/media/VeBeB9rR524RW/giphy.gif?cid=ecf05e47qn6u2k8ft6ftd16njsqbnaw4dzbxzhk01p1w5xeu&rid=giphy.gif&ct=g" align="right">
+<img src="https://media0.giphy.com/media/VeBeB9rR524RW/giphy.gif?cid=ecf05e47qn6u2k8ft6ftd16njsqbnaw4dzbxzhk01p1w5xeu&rid=giphy.gif&ct=g" align="right" width="40%">
 
-<h1> ✨ Bem vindo!!! ✨</h1>
+<h1 align="center"> ✨ Bem vindo!!! ✨</h1>
 <p> É bom te ver por aqui</p>
 
 
